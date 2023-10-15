@@ -1,6 +1,6 @@
-# Travel Experience 
+# Travel Journal Site 
 
-A simplified Travel Experiences simple site built with React.
+A simplified Travel Journal simple site built with React.
 
 ## What I've Learned
 
