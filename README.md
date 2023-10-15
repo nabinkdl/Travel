@@ -1,6 +1,6 @@
-# AirBnb Experiences Clone
+# Travel Experience 
 
-A simplified AirBnb Experiences clone built with React.
+A simplified Travel Experiences clone built with React.
 
 ## What I've Learned
 
