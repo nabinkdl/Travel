@@ -1,6 +1,6 @@
 # Travel Experience 
 
-A simplified Travel Experiences clone built with React.
+A simplified Travel Experiences simple site built with React.
 
 ## What I've Learned
 
