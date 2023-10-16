@@ -3,9 +3,20 @@ import './card.css'
 function Card(props) {
 
 
+
+    //   let badgeText
+    // if (props.openSpots === 0) {
+    //     badgeText = "SOLD OUT"
+    // } else if (props.location === "Online") {
+    //     badgeText = "ONLINE"
+    // }
+    
+
+
   return (
     <>
     <div className='page'>
+{/*         { badgeText && <div className="card--badge">{badgeText}</div>} */}
         <div className='container'>
                         <div className='box'>
                                 <div className='main--content'>
