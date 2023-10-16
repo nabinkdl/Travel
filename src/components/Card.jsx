@@ -16,7 +16,7 @@ function Card(props) {
   return (
     <>
     <div className='page'>
-{/*         { badgeText && <div className="card--badge">{badgeText}</div>} */}
+{/*         { badgeText && <div className="card-badge">{badgeText}</div>} */}
         <div className='container'>
                         <div className='box'>
                                 <div className='main--content'>
